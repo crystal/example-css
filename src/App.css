@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  font-family: Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0 0 20px 0;
+}
+
+section {
+  margin: 0 auto;
+  max-width: 1000px;
+  overflow: auto;
+  padding: 50px 20px;
+}
